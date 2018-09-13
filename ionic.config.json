@@ -1,0 +1,7 @@
+{
+  "name": "swayamvaram",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
